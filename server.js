@@ -17,7 +17,7 @@ let clientes = {
   "CLIENTE001": {
     nome: "SISTEMA PMM",
     licenca: "1beff21a32e849688ad0512f0033e55f",   // <-- coloque a licença gerada pelo seu gerador
-    status: "bloqueado",      // "ativo" ou "bloqueado"
+    status: "ativo",      // "ativo" ou "bloqueado"
     validade: "2026-06-30"
   },
   "CLIENTE002": {
