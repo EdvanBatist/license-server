@@ -15,10 +15,10 @@ const API_SECRET = 'MINHA_CHAVE_SECRETA_123';
 // e a licença que seu gerador já produziu para ele.
 let clientes = {
   "CLIENTE001": {
-    nome: "Mercado São Jorge",
-    licenca: "XXXX-YYYY-ZZZZ-1234",   // <-- coloque a licença gerada pelo seu gerador
+    nome: "SISTEMA PMM",
+    licenca: "1beff21a32e849688ad0512f0033e55f",   // <-- coloque a licença gerada pelo seu gerador
     status: "ativo",      // "ativo" ou "bloqueado"
-    validade: "2025-07-01"
+    validade: "2026-06-30"
   },
   "CLIENTE002": {
     nome: "Barbearia Flash",
